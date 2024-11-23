@@ -13,7 +13,7 @@ Enabling users to:
 First step, clone this repo.
 
 ```bash
-git clone https://github.com/starknet-id/app.starknet.id.git
+git clone  https://github.com/lfglabs-dev
 ```
 
 Second step, install the dependencies.
